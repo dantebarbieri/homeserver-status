@@ -5,12 +5,20 @@ user-agent: dantebarbieri
 sites:
   - name: Plex
     url: https://plex.danteb.com
+    expectedStatusCodes:
+      - 401
   - name: Jellyfin
     url: https://jellyfin.danteb.com
+    expectedStatusCodes:
+      - 302
   - name: Nextcloud
     url: https://cloud.danteb.com
+    expectedStatusCodes:
+      - 302
   - name: Seerr
     url: https://seerr.danteb.com
+    expectedStatusCodes:
+      - 307
   - name: Immich
     url: https://immich.danteb.com
   - name: Vaultwarden
