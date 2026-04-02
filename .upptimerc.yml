@@ -3,28 +3,81 @@ repo: homeserver-status
 user-agent: dantebarbieri
 
 sites:
+  # Media
   - name: Plex
     url: https://plex.danteb.com
     expectedStatusCodes:
       - 401
   - name: Jellyfin
     url: https://jellyfin.danteb.com
-  - name: Nextcloud
-    url: https://cloud.danteb.com
   - name: Seerr
     url: https://seerr.danteb.com
   - name: Immich
     url: https://immich.danteb.com
-  - name: Vaultwarden
-    url: https://vaultwarden.danteb.com
-  - name: ntfy
-    url: https://ntfy.danteb.com
+  - name: Komga
+    url: https://komga.danteb.com
+  - name: Calibre
+    url: https://calibre.danteb.com
+  - name: Suwayomi
+    url: https://suwayomi.danteb.com
+
+  # Media Management
+  - name: Radarr
+    url: https://radarr.danteb.com
+  - name: Sonarr
+    url: https://sonarr.danteb.com
+  - name: Bazarr
+    url: https://bazarr.danteb.com
+  - name: Prowlarr
+    url: https://prowlarr.danteb.com
+  - name: Tdarr
+    url: https://tdarr.danteb.com
+
+  # Downloads
+  - name: qBittorrent
+    url: https://qbittorrent.danteb.com
+  - name: SABnzbd
+    url: https://sabnzbd.danteb.com
   - name: SearXNG
     url: https://searxng.danteb.com
-  - name: Authelia
-    url: https://authelia.danteb.com
+
+  # Communication
   - name: Element
     url: https://element.danteb.com
+  - name: Matrix
+    url: https://matrix.danteb.com
+
+  # Infrastructure
+  - name: Nginx Proxy Manager
+    url: https://nginx-proxy-manager.danteb.com
+  - name: Authelia
+    url: https://authelia.danteb.com
+  - name: AdGuard Home
+    url: https://adguardhome.danteb.com
+  - name: WireGuard
+    url: https://wireguard.danteb.com
+  - name: Uptime Kuma
+    url: https://uptime.danteb.com
+
+  # Utilities
+  - name: Nextcloud
+    url: https://cloud.danteb.com
+  - name: Vaultwarden
+    url: https://vaultwarden.danteb.com
+  - name: Syncthing
+    url: https://syncthing.danteb.com
+  - name: ntfy
+    url: https://ntfy.danteb.com
+  - name: Dashdot
+    url: https://dashdot.danteb.com
+  - name: IT-Tools
+    url: https://tools.danteb.com
+  - name: Code Server
+    url: https://code.danteb.com
+  - name: Forgejo
+    url: https://git.danteb.com
+  - name: Travel Planner
+    url: https://travel.danteb.com
   - name: Homepage
     url: https://homepage.danteb.com
 
