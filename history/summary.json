@@ -60,19 +60,19 @@
     "url": "https://immich.danteb.com",
     "icon": "https://icons.duckduckgo.com/ip3/immich.danteb.com.ico",
     "slug": "immich",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 257,
-    "timeDay": 232,
-    "timeWeek": 264,
-    "timeMonth": 257,
-    "timeYear": 257,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "95.66%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 256,
+    "timeDay": 230,
+    "timeWeek": 260,
+    "timeMonth": 256,
+    "timeYear": 256,
     "dailyMinutesDown": {
-      "2026-04-21": 0
+      "2026-04-21": 62
     }
   },
   {
