@@ -60,18 +60,20 @@
     "url": "https://immich.danteb.com",
     "icon": "https://icons.duckduckgo.com/ip3/immich.danteb.com.ico",
     "slug": "immich",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 258,
-    "timeDay": 221,
-    "timeWeek": 267,
-    "timeMonth": 258,
-    "timeYear": 258,
-    "dailyMinutesDown": {}
+    "time": 257,
+    "timeDay": 232,
+    "timeWeek": 264,
+    "timeMonth": 257,
+    "timeYear": 257,
+    "dailyMinutesDown": {
+      "2026-04-21": 0
+    }
   },
   {
     "name": "Komga",
@@ -222,19 +224,19 @@
     "url": "https://qbittorrent.danteb.com",
     "icon": "https://icons.duckduckgo.com/ip3/qbittorrent.danteb.com.ico",
     "slug": "q-bittorrent",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 231,
-    "timeDay": 199,
-    "timeWeek": 234,
-    "timeMonth": 231,
-    "timeYear": 231,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "95.83%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 233,
+    "timeDay": 224,
+    "timeWeek": 238,
+    "timeMonth": 233,
+    "timeYear": 233,
     "dailyMinutesDown": {
-      "2026-04-21": 0
+      "2026-04-21": 60
     }
   },
   {
