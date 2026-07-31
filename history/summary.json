@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/plex.danteb.com.ico",
     "slug": "plex",
     "status": "down",
-    "uptime": "98.87%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "97.46%",
-    "uptimeYear": "98.87%",
+    "uptime": "98.75%",
+    "uptimeDay": "84.40%",
+    "uptimeWeek": "97.77%",
+    "uptimeMonth": "96.98%",
+    "uptimeYear": "98.75%",
     "time": 264,
-    "timeDay": 241,
-    "timeWeek": 275,
+    "timeDay": 0,
+    "timeWeek": 276,
     "timeMonth": 260,
     "timeYear": 264,
     "dailyMinutesDown": {
@@ -22,7 +22,8 @@
       "2026-06-01": 346,
       "2026-07-04": 1085,
       "2026-07-03": 15,
-      "2026-07-30": 12
+      "2026-07-31": 70,
+      "2026-07-30": 154
     }
   },
   {
@@ -31,14 +32,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.danteb.com.ico",
     "slug": "jellyfin",
     "status": "down",
-    "uptime": "98.88%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "97.47%",
-    "uptimeYear": "98.88%",
+    "uptime": "98.76%",
+    "uptimeDay": "84.74%",
+    "uptimeWeek": "97.82%",
+    "uptimeMonth": "96.99%",
+    "uptimeYear": "98.76%",
     "time": 418,
-    "timeDay": 458,
-    "timeWeek": 473,
+    "timeDay": 0,
+    "timeWeek": 488,
     "timeMonth": 454,
     "timeYear": 418,
     "dailyMinutesDown": {
@@ -47,7 +48,8 @@
       "2026-06-01": 345,
       "2026-07-04": 1085,
       "2026-07-03": 15,
-      "2026-07-30": 7
+      "2026-07-31": 70,
+      "2026-07-30": 149
     }
   },
   {
@@ -56,14 +58,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/seerr.danteb.com.ico",
     "slug": "seerr",
     "status": "down",
-    "uptime": "98.89%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "97.48%",
-    "uptimeYear": "98.89%",
+    "uptime": "98.77%",
+    "uptimeDay": "85.08%",
+    "uptimeWeek": "97.87%",
+    "uptimeMonth": "97.00%",
+    "uptimeYear": "98.77%",
     "time": 849,
-    "timeDay": 815,
-    "timeWeek": 852,
+    "timeDay": 0,
+    "timeWeek": 878,
     "timeMonth": 901,
     "timeYear": 849,
     "dailyMinutesDown": {
@@ -72,7 +74,8 @@
       "2026-06-01": 345,
       "2026-07-04": 1085,
       "2026-07-03": 14,
-      "2026-07-30": 2
+      "2026-07-31": 70,
+      "2026-07-30": 144
     }
   },
   {
@@ -80,14 +83,14 @@
     "url": "https://immich.danteb.com",
     "icon": "https://icons.duckduckgo.com/ip3/immich.danteb.com.ico",
     "slug": "immich",
-    "status": "up",
-    "uptime": "98.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.49%",
-    "uptimeYear": "98.85%",
+    "status": "down",
+    "uptime": "98.78%",
+    "uptimeDay": "90.50%",
+    "uptimeWeek": "98.64%",
+    "uptimeMonth": "97.18%",
+    "uptimeYear": "98.78%",
     "time": 306,
-    "timeDay": 317,
+    "timeDay": 0,
     "timeWeek": 329,
     "timeMonth": 295,
     "timeYear": 306,
@@ -97,7 +100,9 @@
       "2026-05-02": 198,
       "2026-06-01": 345,
       "2026-07-04": 1085,
-      "2026-07-03": 14
+      "2026-07-03": 14,
+      "2026-07-31": 70,
+      "2026-07-30": 66
     }
   },
   {
@@ -105,15 +110,15 @@
     "url": "https://komga.danteb.com",
     "icon": "https://icons.duckduckgo.com/ip3/komga.danteb.com.ico",
     "slug": "komga",
-    "status": "up",
-    "uptime": "98.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.49%",
-    "uptimeYear": "98.88%",
+    "status": "down",
+    "uptime": "98.80%",
+    "uptimeDay": "90.84%",
+    "uptimeWeek": "98.69%",
+    "uptimeMonth": "97.19%",
+    "uptimeYear": "98.80%",
     "time": 252,
-    "timeDay": 272,
-    "timeWeek": 252,
+    "timeDay": 0,
+    "timeWeek": 259,
     "timeMonth": 243,
     "timeYear": 252,
     "dailyMinutesDown": {
@@ -121,7 +126,9 @@
       "2026-05-02": 198,
       "2026-06-01": 345,
       "2026-07-04": 1085,
-      "2026-07-03": 14
+      "2026-07-03": 14,
+      "2026-07-31": 70,
+      "2026-07-30": 61
     }
   },
   {
@@ -129,15 +136,15 @@
     "url": "https://calibre.danteb.com",
     "icon": "https://icons.duckduckgo.com/ip3/calibre.danteb.com.ico",
     "slug": "calibre",
-    "status": "up",
-    "uptime": "98.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.49%",
-    "uptimeYear": "98.88%",
+    "status": "down",
+    "uptime": "98.81%",
+    "uptimeDay": "91.18%",
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "97.20%",
+    "uptimeYear": "98.81%",
     "time": 422,
-    "timeDay": 471,
-    "timeWeek": 450,
+    "timeDay": 0,
+    "timeWeek": 447,
     "timeMonth": 441,
     "timeYear": 422,
     "dailyMinutesDown": {
@@ -145,7 +152,9 @@
       "2026-05-02": 198,
       "2026-06-01": 345,
       "2026-07-04": 1085,
-      "2026-07-03": 14
+      "2026-07-03": 14,
+      "2026-07-31": 70,
+      "2026-07-30": 57
     }
   },
   {
@@ -153,15 +162,15 @@
     "url": "https://suwayomi.danteb.com",
     "icon": "https://icons.duckduckgo.com/ip3/suwayomi.danteb.com.ico",
     "slug": "suwayomi",
-    "status": "up",
-    "uptime": "98.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.49%",
-    "uptimeYear": "98.88%",
+    "status": "down",
+    "uptime": "98.81%",
+    "uptimeDay": "91.51%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "97.21%",
+    "uptimeYear": "98.81%",
     "time": 454,
-    "timeDay": 500,
-    "timeWeek": 483,
+    "timeDay": 0,
+    "timeWeek": 481,
     "timeMonth": 481,
     "timeYear": 454,
     "dailyMinutesDown": {
@@ -169,7 +178,9 @@
       "2026-05-02": 198,
       "2026-06-01": 345,
       "2026-07-04": 1085,
-      "2026-07-03": 13
+      "2026-07-03": 13,
+      "2026-07-31": 70,
+      "2026-07-30": 52
     }
   },
   {
@@ -177,15 +188,15 @@
     "url": "https://radarr.danteb.com",
     "icon": "https://icons.duckduckgo.com/ip3/radarr.danteb.com.ico",
     "slug": "radarr",
-    "status": "up",
-    "uptime": "98.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.49%",
-    "uptimeYear": "98.91%",
+    "status": "down",
+    "uptime": "98.84%",
+    "uptimeDay": "91.85%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "97.22%",
+    "uptimeYear": "98.84%",
     "time": 453,
-    "timeDay": 512,
-    "timeWeek": 492,
+    "timeDay": 0,
+    "timeWeek": 502,
     "timeMonth": 483,
     "timeYear": 453,
     "dailyMinutesDown": {
@@ -193,7 +204,9 @@
       "2026-05-02": 152,
       "2026-06-01": 344,
       "2026-07-04": 1086,
-      "2026-07-03": 13
+      "2026-07-03": 13,
+      "2026-07-31": 70,
+      "2026-07-30": 47
     }
   },
   {
@@ -201,15 +214,15 @@
     "url": "https://sonarr.danteb.com",
     "icon": "https://icons.duckduckgo.com/ip3/sonarr.danteb.com.ico",
     "slug": "sonarr",
-    "status": "up",
-    "uptime": "98.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.49%",
-    "uptimeYear": "98.91%",
+    "status": "down",
+    "uptime": "98.84%",
+    "uptimeDay": "92.19%",
+    "uptimeWeek": "98.88%",
+    "uptimeMonth": "97.24%",
+    "uptimeYear": "98.84%",
     "time": 440,
-    "timeDay": 460,
-    "timeWeek": 460,
+    "timeDay": 0,
+    "timeWeek": 454,
     "timeMonth": 457,
     "timeYear": 440,
     "dailyMinutesDown": {
@@ -217,7 +230,9 @@
       "2026-05-02": 151,
       "2026-06-01": 344,
       "2026-07-04": 1086,
-      "2026-07-03": 13
+      "2026-07-03": 13,
+      "2026-07-31": 71,
+      "2026-07-30": 42
     }
   },
   {
@@ -225,15 +240,15 @@
     "url": "https://bazarr.danteb.com",
     "icon": "https://icons.duckduckgo.com/ip3/bazarr.danteb.com.ico",
     "slug": "bazarr",
-    "status": "up",
-    "uptime": "98.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.49%",
-    "uptimeYear": "98.91%",
+    "status": "down",
+    "uptime": "98.85%",
+    "uptimeDay": "92.53%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "97.25%",
+    "uptimeYear": "98.85%",
     "time": 245,
-    "timeDay": 260,
-    "timeWeek": 245,
+    "timeDay": 0,
+    "timeWeek": 241,
     "timeMonth": 239,
     "timeYear": 245,
     "dailyMinutesDown": {
@@ -241,7 +256,9 @@
       "2026-05-02": 151,
       "2026-06-01": 344,
       "2026-07-04": 1086,
-      "2026-07-03": 13
+      "2026-07-03": 13,
+      "2026-07-31": 71,
+      "2026-07-30": 37
     }
   },
   {
@@ -249,15 +266,15 @@
     "url": "https://prowlarr.danteb.com",
     "icon": "https://icons.duckduckgo.com/ip3/prowlarr.danteb.com.ico",
     "slug": "prowlarr",
-    "status": "up",
-    "uptime": "98.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.49%",
-    "uptimeYear": "98.91%",
+    "status": "down",
+    "uptime": "98.85%",
+    "uptimeDay": "92.87%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "97.26%",
+    "uptimeYear": "98.85%",
     "time": 435,
-    "timeDay": 487,
-    "timeWeek": 512,
+    "timeDay": 0,
+    "timeWeek": 523,
     "timeMonth": 479,
     "timeYear": 435,
     "dailyMinutesDown": {
@@ -265,7 +282,9 @@
       "2026-05-02": 151,
       "2026-06-01": 344,
       "2026-07-04": 1086,
-      "2026-07-03": 13
+      "2026-07-03": 13,
+      "2026-07-31": 71,
+      "2026-07-30": 32
     }
   },
   {
@@ -273,15 +292,15 @@
     "url": "https://tdarr.danteb.com",
     "icon": "https://icons.duckduckgo.com/ip3/tdarr.danteb.com.ico",
     "slug": "tdarr",
-    "status": "up",
-    "uptime": "98.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.49%",
-    "uptimeYear": "98.91%",
+    "status": "down",
+    "uptime": "98.85%",
+    "uptimeDay": "93.20%",
+    "uptimeWeek": "99.03%",
+    "uptimeMonth": "97.27%",
+    "uptimeYear": "98.85%",
     "time": 240,
-    "timeDay": 277,
-    "timeWeek": 242,
+    "timeDay": 0,
+    "timeWeek": 246,
     "timeMonth": 227,
     "timeYear": 240,
     "dailyMinutesDown": {
@@ -289,7 +308,9 @@
       "2026-05-02": 150,
       "2026-06-01": 344,
       "2026-07-04": 1086,
-      "2026-07-03": 12
+      "2026-07-03": 12,
+      "2026-07-31": 71,
+      "2026-07-30": 27
     }
   },
   {
@@ -297,15 +318,15 @@
     "url": "https://qbittorrent.danteb.com",
     "icon": "https://icons.duckduckgo.com/ip3/qbittorrent.danteb.com.ico",
     "slug": "q-bittorrent",
-    "status": "up",
-    "uptime": "98.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.49%",
-    "uptimeYear": "98.88%",
+    "status": "down",
+    "uptime": "98.82%",
+    "uptimeDay": "93.54%",
+    "uptimeWeek": "99.08%",
+    "uptimeMonth": "97.28%",
+    "uptimeYear": "98.82%",
     "time": 260,
-    "timeDay": 231,
-    "timeWeek": 234,
+    "timeDay": 0,
+    "timeWeek": 242,
     "timeMonth": 216,
     "timeYear": 260,
     "dailyMinutesDown": {
@@ -314,7 +335,9 @@
       "2026-05-02": 150,
       "2026-06-01": 344,
       "2026-07-04": 1086,
-      "2026-07-03": 12
+      "2026-07-03": 12,
+      "2026-07-31": 71,
+      "2026-07-30": 22
     }
   },
   {
@@ -322,15 +345,15 @@
     "url": "https://sabnzbd.danteb.com",
     "icon": "https://icons.duckduckgo.com/ip3/sabnzbd.danteb.com.ico",
     "slug": "sa-bnzbd",
-    "status": "up",
-    "uptime": "98.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.49%",
-    "uptimeYear": "98.91%",
+    "status": "down",
+    "uptime": "98.86%",
+    "uptimeDay": "93.88%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "97.29%",
+    "uptimeYear": "98.86%",
     "time": 432,
-    "timeDay": 441,
-    "timeWeek": 450,
+    "timeDay": 0,
+    "timeWeek": 462,
     "timeMonth": 408,
     "timeYear": 432,
     "dailyMinutesDown": {
@@ -338,7 +361,9 @@
       "2026-05-02": 150,
       "2026-06-01": 343,
       "2026-07-04": 1086,
-      "2026-07-03": 12
+      "2026-07-03": 12,
+      "2026-07-31": 71,
+      "2026-07-30": 18
     }
   },
   {
@@ -346,15 +371,15 @@
     "url": "https://searxng.danteb.com",
     "icon": "https://icons.duckduckgo.com/ip3/searxng.danteb.com.ico",
     "slug": "sear-xng",
-    "status": "up",
-    "uptime": "98.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.49%",
-    "uptimeYear": "98.95%",
+    "status": "down",
+    "uptime": "98.91%",
+    "uptimeDay": "94.22%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "97.30%",
+    "uptimeYear": "98.91%",
     "time": 323,
-    "timeDay": 295,
-    "timeWeek": 302,
+    "timeDay": 0,
+    "timeWeek": 311,
     "timeMonth": 293,
     "timeYear": 323,
     "dailyMinutesDown": {
@@ -362,7 +387,9 @@
       "2026-05-02": 94,
       "2026-06-01": 343,
       "2026-07-04": 1086,
-      "2026-07-03": 12
+      "2026-07-03": 12,
+      "2026-07-31": 71,
+      "2026-07-30": 13
     }
   },
   {
@@ -370,15 +397,15 @@
     "url": "https://element.danteb.com",
     "icon": "https://icons.duckduckgo.com/ip3/element.danteb.com.ico",
     "slug": "element",
-    "status": "up",
-    "uptime": "98.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.50%",
-    "uptimeYear": "98.98%",
+    "status": "down",
+    "uptime": "98.94%",
+    "uptimeDay": "94.56%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "97.32%",
+    "uptimeYear": "98.94%",
     "time": 231,
-    "timeDay": 239,
-    "timeWeek": 232,
+    "timeDay": 0,
+    "timeWeek": 231,
     "timeMonth": 231,
     "timeYear": 231,
     "dailyMinutesDown": {
@@ -386,7 +413,9 @@
       "2026-05-02": 48,
       "2026-06-01": 343,
       "2026-07-04": 1086,
-      "2026-07-03": 11
+      "2026-07-03": 11,
+      "2026-07-31": 71,
+      "2026-07-30": 8
     }
   },
   {
@@ -394,15 +423,15 @@
     "url": "https://matrix.danteb.com",
     "icon": "https://icons.duckduckgo.com/ip3/matrix.danteb.com.ico",
     "slug": "matrix",
-    "status": "up",
-    "uptime": "98.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.50%",
-    "uptimeYear": "98.95%",
+    "status": "down",
+    "uptime": "98.90%",
+    "uptimeDay": "94.89%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "97.33%",
+    "uptimeYear": "98.90%",
     "time": 592,
-    "timeDay": 726,
-    "timeWeek": 670,
+    "timeDay": 0,
+    "timeWeek": 680,
     "timeMonth": 632,
     "timeYear": 592,
     "dailyMinutesDown": {
@@ -410,7 +439,9 @@
       "2026-05-02": 94,
       "2026-06-01": 343,
       "2026-07-04": 1086,
-      "2026-07-03": 11
+      "2026-07-03": 11,
+      "2026-07-31": 71,
+      "2026-07-30": 3
     }
   },
   {
@@ -418,15 +449,15 @@
     "url": "https://nginx-proxy-manager.danteb.com",
     "icon": "https://icons.duckduckgo.com/ip3/nginx-proxy-manager.danteb.com.ico",
     "slug": "nginx-proxy-manager",
-    "status": "up",
-    "uptime": "98.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.50%",
-    "uptimeYear": "98.95%",
+    "status": "down",
+    "uptime": "98.91%",
+    "uptimeDay": "95.23%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "97.34%",
+    "uptimeYear": "98.91%",
     "time": 457,
-    "timeDay": 467,
-    "timeWeek": 472,
+    "timeDay": 0,
+    "timeWeek": 462,
     "timeMonth": 426,
     "timeYear": 457,
     "dailyMinutesDown": {
@@ -434,7 +465,8 @@
       "2026-05-02": 93,
       "2026-06-01": 343,
       "2026-07-04": 1086,
-      "2026-07-03": 11
+      "2026-07-03": 11,
+      "2026-07-31": 69
     }
   },
   {
@@ -442,15 +474,15 @@
     "url": "https://authelia.danteb.com",
     "icon": "https://icons.duckduckgo.com/ip3/authelia.danteb.com.ico",
     "slug": "authelia",
-    "status": "up",
-    "uptime": "98.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.50%",
-    "uptimeYear": "98.98%",
+    "status": "down",
+    "uptime": "98.95%",
+    "uptimeDay": "95.57%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "97.35%",
+    "uptimeYear": "98.95%",
     "time": 211,
-    "timeDay": 211,
-    "timeWeek": 206,
+    "timeDay": 0,
+    "timeWeek": 205,
     "timeMonth": 190,
     "timeYear": 211,
     "dailyMinutesDown": {
@@ -458,7 +490,8 @@
       "2026-05-02": 47,
       "2026-06-01": 343,
       "2026-07-04": 1086,
-      "2026-07-03": 11
+      "2026-07-03": 11,
+      "2026-07-31": 64
     }
   },
   {
@@ -466,15 +499,15 @@
     "url": "https://adguardhome.danteb.com",
     "icon": "https://icons.duckduckgo.com/ip3/adguardhome.danteb.com.ico",
     "slug": "ad-guard-home",
-    "status": "up",
-    "uptime": "98.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.50%",
-    "uptimeYear": "98.95%",
+    "status": "down",
+    "uptime": "98.91%",
+    "uptimeDay": "95.91%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "97.36%",
+    "uptimeYear": "98.91%",
     "time": 391,
-    "timeDay": 443,
-    "timeWeek": 476,
+    "timeDay": 0,
+    "timeWeek": 480,
     "timeMonth": 404,
     "timeYear": 391,
     "dailyMinutesDown": {
@@ -482,7 +515,8 @@
       "2026-05-02": 92,
       "2026-06-01": 342,
       "2026-07-04": 1086,
-      "2026-07-03": 10
+      "2026-07-03": 10,
+      "2026-07-31": 59
     }
   },
   {
@@ -490,15 +524,15 @@
     "url": "https://wireguard.danteb.com",
     "icon": "https://icons.duckduckgo.com/ip3/wireguard.danteb.com.ico",
     "slug": "wire-guard",
-    "status": "up",
-    "uptime": "98.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.50%",
-    "uptimeYear": "98.95%",
+    "status": "down",
+    "uptime": "98.92%",
+    "uptimeDay": "96.25%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "97.37%",
+    "uptimeYear": "98.92%",
     "time": 370,
-    "timeDay": 358,
-    "timeWeek": 376,
+    "timeDay": 0,
+    "timeWeek": 375,
     "timeMonth": 356,
     "timeYear": 370,
     "dailyMinutesDown": {
@@ -506,7 +540,8 @@
       "2026-05-02": 91,
       "2026-06-01": 342,
       "2026-07-04": 1086,
-      "2026-07-03": 10
+      "2026-07-03": 10,
+      "2026-07-31": 54
     }
   },
   {
@@ -514,15 +549,15 @@
     "url": "https://uptime.danteb.com",
     "icon": "https://icons.duckduckgo.com/ip3/uptime.danteb.com.ico",
     "slug": "uptime-kuma",
-    "status": "up",
-    "uptime": "98.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.50%",
-    "uptimeYear": "98.95%",
+    "status": "down",
+    "uptime": "98.92%",
+    "uptimeDay": "96.59%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "97.39%",
+    "uptimeYear": "98.92%",
     "time": 394,
-    "timeDay": 448,
-    "timeWeek": 428,
+    "timeDay": 0,
+    "timeWeek": 438,
     "timeMonth": 422,
     "timeYear": 394,
     "dailyMinutesDown": {
@@ -530,7 +565,8 @@
       "2026-05-02": 91,
       "2026-06-01": 342,
       "2026-07-04": 1086,
-      "2026-07-03": 10
+      "2026-07-03": 10,
+      "2026-07-31": 49
     }
   },
   {
@@ -538,15 +574,15 @@
     "url": "https://cloud.danteb.com",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.danteb.com.ico",
     "slug": "nextcloud",
-    "status": "up",
-    "uptime": "98.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.50%",
-    "uptimeYear": "98.96%",
+    "status": "down",
+    "uptime": "98.93%",
+    "uptimeDay": "96.92%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "97.40%",
+    "uptimeYear": "98.93%",
     "time": 551,
-    "timeDay": 622,
-    "timeWeek": 610,
+    "timeDay": 0,
+    "timeWeek": 625,
     "timeMonth": 576,
     "timeYear": 551,
     "dailyMinutesDown": {
@@ -554,7 +590,8 @@
       "2026-05-02": 90,
       "2026-06-01": 342,
       "2026-07-04": 1086,
-      "2026-07-03": 10
+      "2026-07-03": 10,
+      "2026-07-31": 44
     }
   },
   {
@@ -562,15 +599,15 @@
     "url": "https://vaultwarden.danteb.com",
     "icon": "https://icons.duckduckgo.com/ip3/vaultwarden.danteb.com.ico",
     "slug": "vaultwarden",
-    "status": "up",
-    "uptime": "98.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.50%",
-    "uptimeYear": "98.96%",
+    "status": "down",
+    "uptime": "98.94%",
+    "uptimeDay": "97.26%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "97.41%",
+    "uptimeYear": "98.94%",
     "time": 297,
-    "timeDay": 294,
-    "timeWeek": 300,
+    "timeDay": 0,
+    "timeWeek": 309,
     "timeMonth": 277,
     "timeYear": 297,
     "dailyMinutesDown": {
@@ -578,7 +615,8 @@
       "2026-05-02": 90,
       "2026-06-01": 342,
       "2026-07-04": 1086,
-      "2026-07-03": 10
+      "2026-07-03": 10,
+      "2026-07-31": 39
     }
   },
   {
@@ -586,15 +624,15 @@
     "url": "https://syncthing.danteb.com",
     "icon": "https://icons.duckduckgo.com/ip3/syncthing.danteb.com.ico",
     "slug": "syncthing",
-    "status": "up",
-    "uptime": "98.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.50%",
-    "uptimeYear": "98.95%",
+    "status": "down",
+    "uptime": "98.93%",
+    "uptimeDay": "97.60%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "97.42%",
+    "uptimeYear": "98.93%",
     "time": 370,
-    "timeDay": 387,
-    "timeWeek": 378,
+    "timeDay": 0,
+    "timeWeek": 389,
     "timeMonth": 352,
     "timeYear": 370,
     "dailyMinutesDown": {
@@ -602,7 +640,8 @@
       "2026-05-02": 90,
       "2026-06-01": 342,
       "2026-07-04": 1086,
-      "2026-07-03": 9
+      "2026-07-03": 9,
+      "2026-07-31": 35
     }
   },
   {
@@ -610,15 +649,15 @@
     "url": "https://ntfy.danteb.com",
     "icon": "https://icons.duckduckgo.com/ip3/ntfy.danteb.com.ico",
     "slug": "ntfy",
-    "status": "up",
-    "uptime": "98.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.50%",
-    "uptimeYear": "98.96%",
+    "status": "down",
+    "uptime": "98.94%",
+    "uptimeDay": "97.94%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "97.43%",
+    "uptimeYear": "98.94%",
     "time": 230,
-    "timeDay": 239,
-    "timeWeek": 230,
+    "timeDay": 0,
+    "timeWeek": 234,
     "timeMonth": 214,
     "timeYear": 230,
     "dailyMinutesDown": {
@@ -626,7 +665,8 @@
       "2026-05-02": 90,
       "2026-06-01": 341,
       "2026-07-04": 1086,
-      "2026-07-03": 9
+      "2026-07-03": 9,
+      "2026-07-31": 30
     }
   },
   {
@@ -634,15 +674,15 @@
     "url": "https://dashdot.danteb.com",
     "icon": "https://icons.duckduckgo.com/ip3/dashdot.danteb.com.ico",
     "slug": "dashdot",
-    "status": "up",
-    "uptime": "98.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.50%",
-    "uptimeYear": "98.95%",
+    "status": "down",
+    "uptime": "98.94%",
+    "uptimeDay": "98.28%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "97.44%",
+    "uptimeYear": "98.94%",
     "time": 432,
-    "timeDay": 436,
-    "timeWeek": 443,
+    "timeDay": 0,
+    "timeWeek": 455,
     "timeMonth": 399,
     "timeYear": 432,
     "dailyMinutesDown": {
@@ -650,7 +690,8 @@
       "2026-05-02": 89,
       "2026-06-01": 341,
       "2026-07-04": 1086,
-      "2026-07-03": 9
+      "2026-07-03": 9,
+      "2026-07-31": 25
     }
   },
   {
@@ -658,15 +699,15 @@
     "url": "https://tools.danteb.com",
     "icon": "https://icons.duckduckgo.com/ip3/tools.danteb.com.ico",
     "slug": "it-tools",
-    "status": "up",
-    "uptime": "98.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.50%",
-    "uptimeYear": "98.95%",
+    "status": "down",
+    "uptime": "98.94%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "97.45%",
+    "uptimeYear": "98.94%",
     "time": 229,
-    "timeDay": 283,
-    "timeWeek": 260,
+    "timeDay": 0,
+    "timeWeek": 255,
     "timeMonth": 208,
     "timeYear": 229,
     "dailyMinutesDown": {
@@ -674,7 +715,8 @@
       "2026-05-02": 89,
       "2026-06-01": 341,
       "2026-07-04": 1086,
-      "2026-07-03": 9
+      "2026-07-03": 9,
+      "2026-07-31": 20
     }
   },
   {
@@ -682,15 +724,15 @@
     "url": "https://code.danteb.com",
     "icon": "https://icons.duckduckgo.com/ip3/code.danteb.com.ico",
     "slug": "code-server",
-    "status": "up",
+    "status": "down",
     "uptime": "98.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.50%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "97.47%",
     "uptimeYear": "98.95%",
     "time": 385,
-    "timeDay": 477,
-    "timeWeek": 471,
+    "timeDay": 0,
+    "timeWeek": 487,
     "timeMonth": 405,
     "timeYear": 385,
     "dailyMinutesDown": {
@@ -698,7 +740,8 @@
       "2026-05-02": 88,
       "2026-06-01": 341,
       "2026-07-04": 1087,
-      "2026-07-03": 8
+      "2026-07-03": 8,
+      "2026-07-31": 15
     }
   },
   {
@@ -706,15 +749,15 @@
     "url": "https://git.danteb.com",
     "icon": "https://icons.duckduckgo.com/ip3/git.danteb.com.ico",
     "slug": "forgejo",
-    "status": "up",
+    "status": "down",
     "uptime": "98.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.50%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "97.48%",
     "uptimeYear": "98.95%",
     "time": 300,
-    "timeDay": 276,
-    "timeWeek": 331,
+    "timeDay": 0,
+    "timeWeek": 332,
     "timeMonth": 284,
     "timeYear": 300,
     "dailyMinutesDown": {
@@ -722,7 +765,8 @@
       "2026-05-02": 88,
       "2026-06-01": 341,
       "2026-07-04": 1087,
-      "2026-07-03": 8
+      "2026-07-03": 8,
+      "2026-07-31": 10
     }
   },
   {
@@ -730,15 +774,15 @@
     "url": "https://travel.danteb.com",
     "icon": "https://icons.duckduckgo.com/ip3/travel.danteb.com.ico",
     "slug": "travel-planner",
-    "status": "up",
+    "status": "down",
     "uptime": "98.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.50%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "97.49%",
     "uptimeYear": "98.95%",
     "time": 227,
-    "timeDay": 220,
-    "timeWeek": 215,
+    "timeDay": 0,
+    "timeWeek": 220,
     "timeMonth": 205,
     "timeYear": 227,
     "dailyMinutesDown": {
@@ -746,7 +790,8 @@
       "2026-05-02": 87,
       "2026-06-01": 340,
       "2026-07-04": 1087,
-      "2026-07-03": 8
+      "2026-07-03": 8,
+      "2026-07-31": 5
     }
   },
   {
@@ -754,15 +799,15 @@
     "url": "https://homepage.danteb.com",
     "icon": "https://icons.duckduckgo.com/ip3/homepage.danteb.com.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "98.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.50%",
     "uptimeYear": "98.96%",
     "time": 366,
-    "timeDay": 372,
-    "timeWeek": 346,
+    "timeDay": 0,
+    "timeWeek": 340,
     "timeMonth": 361,
     "timeYear": 366,
     "dailyMinutesDown": {
@@ -770,7 +815,8 @@
       "2026-05-02": 87,
       "2026-06-01": 340,
       "2026-07-04": 1087,
-      "2026-07-03": 8
+      "2026-07-03": 8,
+      "2026-07-31": 0
     }
   }
 ]
